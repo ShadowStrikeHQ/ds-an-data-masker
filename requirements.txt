@@ -1,0 +1,4 @@
+```
+cryptography>=41.0.0
+faker>=20.0.0
+```
